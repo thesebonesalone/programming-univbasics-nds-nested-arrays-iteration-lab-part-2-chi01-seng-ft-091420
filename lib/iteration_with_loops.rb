@@ -15,4 +15,5 @@ while count < src.length do
   new_array[count] = ref
   count += 1
 end
+new_array
 end
